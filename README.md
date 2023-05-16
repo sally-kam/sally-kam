@@ -1,6 +1,6 @@
 <div align="center">
  
-### Hi there I'm Sally👋
+## Hi there I'm Sally👋
 - 🔭 I’m currently working on building my portfolio and adding more features to my projects
 - 🌱 I’m currently learning algorithms, python, and javascript
 - 💬 Ask me about anything
@@ -8,7 +8,7 @@
 - 😄 Pronouns: She/Her
 - 💻 Recent projects: [Canvas Marketplace](https://canvas-ecommerce.herokuapp.com/), [HealthHive](https://healthhive.herokuapp.com/), [CatConcentration](https://sally-kam.github.io/concentrationGame/)
 - Some languages I've Used:
-<p align="left"> 
+ 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
@@ -47,7 +47,7 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> 
  <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> 
- </p>
+ 
 
 
 <!--
