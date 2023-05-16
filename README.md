@@ -7,7 +7,7 @@
 ### 💬 Ask me about anything
 ### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sallykam/)
 ### 😄 Pronouns: She/Her
-### 💻 Recent projects: [Canvas Marketplace](https://canvas-ecommerce.herokuapp.com/), [HealthHive](https://healthhive.herokuapp.com/), [CatConcentration](https://sally-kam.github.io/concentrationGame/)
+### 💻 Recent projects: [Canvas Marketplace](https://canvas-ecommerce.herokuapp.com/), [HealthHive](https://healthhive.herokuapp.com/), [CatConcentration](https://sally-kam.github.io/concentrationGame/), [PetVana](https://petvana.herokuapp.com/)
 ### Some Skills I have:
  
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
