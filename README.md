@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there I'm Sally👋
+- 🔭 I’m currently working on building my portfolio and adding more features to my projects
+- 🌱 I’m currently learning algorithms, python, and javascript
+
 
 <!--
 **sally-kam/sally-kam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
