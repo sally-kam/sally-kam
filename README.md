@@ -1,6 +1,7 @@
 <div align="center">
  
 ## Hi there I'm Sally👋
+ <h3>
 - 🤔 I’m looking for a Remote Frontend/Full-Stack job
 - 🔭 I’m currently working on building my portfolio and adding more features to my projects
 - 🌱 I’m currently learning algorithms, python, and javascript
@@ -45,7 +46,7 @@
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/> </a> 
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/> </a> 
-
+ </h3>
 
 <!--
 **sally-kam/sally-kam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
