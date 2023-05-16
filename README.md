@@ -8,7 +8,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sallykam/)
 - 😄 Pronouns: She/Her
 - 💻 Recent projects: [Canvas Marketplace](https://canvas-ecommerce.herokuapp.com/), [HealthHive](https://healthhive.herokuapp.com/), [CatConcentration](https://sally-kam.github.io/concentrationGame/)
-- Some languages I've Used:
+- Some Skills I have:
  
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
