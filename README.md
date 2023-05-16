@@ -1,3 +1,5 @@
+<div class="center">
+ 
 ### Hi there I'm Sally👋
 - 🔭 I’m currently working on building my portfolio and adding more features to my projects
 - 🌱 I’m currently learning algorithms, python, and javascript
