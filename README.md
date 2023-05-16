@@ -1,15 +1,14 @@
 <div align="center">
  
 ## Hi there I'm Sally👋
- <h3>
-- 🤔 I’m looking for a Remote Frontend/Full-Stack job
-- 🔭 I’m currently working on building my portfolio and adding more features to my projects
-- 🌱 I’m currently learning algorithms, python, and javascript
-- 💬 Ask me about anything
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sallykam/)
-- 😄 Pronouns: She/Her
-- 💻 Recent projects: [Canvas Marketplace](https://canvas-ecommerce.herokuapp.com/), [HealthHive](https://healthhive.herokuapp.com/), [CatConcentration](https://sally-kam.github.io/concentrationGame/)
-- Some Skills I have:
+### 🤔 I’m looking for a Remote Frontend/Full-Stack job
+### 🔭 I’m currently working on building my portfolio and adding more features to my projects
+### 🌱 I’m currently learning algorithms, python, and javascript
+### 💬 Ask me about anything
+### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sallykam/)
+### 😄 Pronouns: She/Her
+### 💻 Recent projects: [Canvas Marketplace](https://canvas-ecommerce.herokuapp.com/), [HealthHive](https://healthhive.herokuapp.com/), [CatConcentration](https://sally-kam.github.io/concentrationGame/)
+### Some Skills I have:
  
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -27,7 +26,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
  <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a>
-
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
@@ -46,7 +44,7 @@
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/> </a> 
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/> </a> 
- </h3>
+
 
 <!--
 **sally-kam/sally-kam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
