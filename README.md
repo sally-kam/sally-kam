@@ -1,6 +1,6 @@
 <div align="center">
  
-## Hi there I'm Sally👋
+# Hi there I'm Sally👋
 ### 🤔 I’m looking for a Remote Frontend/Full-Stack job
 ### 🔭 I’m currently working on building my portfolio and adding more features to my projects
 ### 🌱 I’m currently learning algorithms, python, and javascript
