@@ -45,7 +45,7 @@
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/> </a> 
 
-### Tops Languages I've Used:
+### Top Languages I've Used:
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sally-kam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
